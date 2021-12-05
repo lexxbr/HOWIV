@@ -9,5 +9,4 @@ Para evitar duvidas, estou ajudando a um colega em seu projeto para que os meus 
 
 Agradeço ao Professor LUCAS D. pela compreensão e apoio.
 
-Alexandre Francisco de Souza
-Aluno UNIVALI
+Alexandre Francisco de Souza - [Aluno UNIVALI]
