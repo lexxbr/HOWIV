@@ -1,4 +1,4 @@
-# HOWIV-readme.txt
+# HOWIV
 Projeto Integrador Univali
 
 Esse projeto vem de encontro a exigencia da materia, projeto elaborado seguindo instruções do enunciado, desenvolver um plano de projeto, dicionario de dados, prototipação, CRUD, Diagramas de CLASSE, Sequencia, DER e MER.
